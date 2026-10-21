@@ -7,8 +7,7 @@
 **Turning raw data into meaningful insights and building responsive web experiences.**
 
 <a href="https://github.com/24fady">
-  <img src="https://komarev.com/ghpvc/?username=24fady&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/>
 <a href="https://github.com/24fady?tab=followers">
   <img src="https://img.shields.io/github/followers/24fady?style=flat-square&color=blue&label=Followers" alt="GitHub Followers"/>
 </a>
