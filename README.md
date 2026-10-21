@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/>
+
 # Hi there, I'm Fady Sameh 👋
 
 ### 💻 Junior Data Engineer | Web Developer
