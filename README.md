@@ -9,9 +9,8 @@
 **Turning raw data into meaningful insights and building responsive web experiences.**
 
 <a href="https://github.com/24fady">
-  <img src="https://komarev.com/ghpvc/?username=24fady&style=flat-square&color=blue&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=24fady&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
-
 <br>
 
 <a href="https://github.com/24fady">
