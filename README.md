@@ -9,7 +9,7 @@
 **Turning raw data into meaningful insights and building responsive web experiences.**
 
 <a href="https://github.com/24fady">
-<a href="https://github.com/24fady?tab=followers">
+<a href="https://github.com/24fady?">
   <img src="https://img.shields.io/github/followers/24fady?style=flat-square&color=blue&label=Followers" />
 </a>
 
