@@ -10,7 +10,7 @@
 
 <a href="https://github.com/24fady">
 <a href="https://github.com/24fady?tab=followers">
-  <img src="https://img.shields.io/github/followers/24fady?style=flat-square&color=blue&label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/24fady?style=flat-square&color=blue&label=Followers" />
 </a>
 
 <br>
